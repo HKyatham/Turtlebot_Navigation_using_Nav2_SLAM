@@ -2,6 +2,7 @@
 
 ## Description:
 This project was just to test out Turtlebot navifation using the Nav2 in ROS2 Galactic environment.
+![Turtlebot_Environment](/Images/Turtlebot_Nav2.png)
 
 ## Dependencies:
 It is assumed that the ROS2 Galactic is already installed and setup in your system. Is it's not setup, navigate to [ROS Documentation](https://docs.ros.org/en/galactic/Installation.html) for installing ROS2.
