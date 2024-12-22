@@ -1,7 +1,7 @@
 # Turtlebot Navigation using Nav2 SLAM
 
 ## Description:
-This project was just to test out Turtlebot navifation using the Nav2 in ROS2 Galactic environment.
+This project was just to test out Turtlebot navigation using the Nav2 in ROS2 Galactic environment. Where a turtlebot is navigated to a goal point using the C++ code and Nav2 module.
 ![Turtlebot_Environment](/Images/Turtlebot_Nav2.png)
 
 ## Dependencies:
